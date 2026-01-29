@@ -1,1 +1,1 @@
-# gaem-dashboards-diablo4-v2
+# game-dashboards-diablo4-v2
